@@ -5,6 +5,6 @@ This is a the [fullcalendar jquery plugin](http://arshaw.com/fullcalendar/) as a
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt install fullcalendar`
+2. `mrt add fullcalendar`
 
 Check out the [fullcalendar api](http://arshaw.com/fullcalendar/docs/) for more details.
